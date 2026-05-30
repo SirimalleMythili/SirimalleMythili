@@ -8,13 +8,13 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Professional Bio
 
-I am a final-year AI/ML Engineering student passionate about bridging the gap between advanced LLM reasoning and production-grade automation workflows. I specialize in building autonomous AI workflows, multi-agent systems, and self-healing API pipelines.
+I am an AI/ML Engineer specializing in the design, development, and deployment of autonomous AI agents, multi-agent systems, and production-grade automation pipelines. I bridge the gap between advanced LLM reasoning capabilities and practical workflow orchestration to solve real-world business challenges. With a strong foundation in Python, LangChain, and API integrations, I focus on building self-healing, scalable automation architectures.
 
-- 🔭 **Current Focus:** Building production-ready AI Agent loops and scalable automation systems.
-- 💼 **Looking for:** Job opportunities or paid internships in AI Agent Development & Automation.
-- ⚡ **Fun Fact:** I love rapid prototyping and deploying real-world automation solutions through intense hackathons.
+- 🔭 **Current Focus:** Engineering production-ready AI Agent loops, multi-step task reasoning, and custom n8n orchestration blueprints.
+- 💼 **Looking for:** Full-time roles or paid internships as an **AI Agent Developer**, **Automation Engineer**, or **AI/ML Engineer**.
+- ⚡ **Core Philosophy:** Rapid prototyping, robust documentation, and bridging cutting-edge GenAI research with practical task automation.
 
 ---
 
@@ -53,12 +53,12 @@ I am a final-year AI/ML Engineering student passionate about bridging the gap be
 
 ### 🔮 Featured Projects
 
-*   **🏢 KIDS - AI-Powered Illustrated Storybook Platform**
-    *   Developing an end-to-end platform using modular AI agent pipelines for story generation, narrative structure, and automated image generation prompts.
-*   **🤖 AI Task Automation Agent**
-    *   Built an autonomous tool-calling agent using LangChain capable of executing multi-step decisions and interacting seamlessly with external REST APIs.
-*   **🔗 n8n Automation Workflows *(In Progress)***
-    *   Creating a dedicated engineering repository housing functional JSON blueprints for advanced, AI-driven automation workflows.
+* **🏢 KIDS - AI-Powered Illustrated Storybook Platform**
+    * Developing an end-to-end platform using modular AI agent pipelines for story generation, narrative structure, and automated image generation prompts.
+* **🤖 AI Task Automation Agent**
+    * Built an autonomous tool-calling agent using LangChain capable of executing multi-step decisions and interacting seamlessly with external REST APIs.
+* **🔗 n8n Automation Workflows *(In Progress)***
+    * Creating a dedicated engineering repository housing functional JSON blueprints for advanced, AI-driven automation workflows.
 
 ---
 
@@ -80,7 +80,6 @@ I am a final-year AI/ML Engineering student passionate about bridging the gap be
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirimalleMythili&theme=radical&hide_border=true" alt="Mythili's GitHub Streak" />
 </p>
 
-<!-- Contributions Snake Animation -->
 <br/>
 <p align="center">
   <img src="https://github.com/SirimalleMythili/SirimalleMythili/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.style.display='none'" />
